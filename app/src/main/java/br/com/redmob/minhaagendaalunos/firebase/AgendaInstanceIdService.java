@@ -4,7 +4,6 @@ import android.util.Log;
 
 import com.google.firebase.iid.FirebaseInstanceId;
 import com.google.firebase.iid.FirebaseInstanceIdService;
-
 import br.com.redmob.minhaagendaalunos.retrofit.RetrofitInicializador;
 import retrofit2.Call;
 import retrofit2.Callback;
