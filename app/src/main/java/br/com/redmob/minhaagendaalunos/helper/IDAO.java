@@ -1,7 +1,6 @@
 package br.com.redmob.minhaagendaalunos.helper;
 
 import java.util.List;
-
 import br.com.redmob.minhaagendaalunos.Model.Aluno;
 
 public interface IDAO {
