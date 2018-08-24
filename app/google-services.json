@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "146784523327",
+    "firebase_url": "https://minhaagendaalunos.firebaseio.com",
+    "project_id": "minhaagendaalunos",
+    "storage_bucket": "minhaagendaalunos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146784523327:android:cfd7730d642c4138",
+        "android_client_info": {
+          "package_name": "br.com.redmob.minhaagendaalunos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146784523327-rjkfepo6vktg67jmp0gs2oha5oauqmue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.redmob.minhaagendaalunos",
+            "certificate_hash": "497418516bd06c2c29c4e48e5dd29a8f4bbb9efd"
+          }
+        },
+        {
+          "client_id": "146784523327-4v7pmjc1rv197tr23gddrvd1aje0t2lf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi8sjUmJH7aTZU8HUIJ2W1poJ8ePdSfck"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146784523327-4v7pmjc1rv197tr23gddrvd1aje0t2lf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
