@@ -24,7 +24,7 @@ public class AddAlunoActivity extends AppCompatActivity {
     private EditText editTelefone;
     private EditText editSite;
     private EditText editNota;
-    private Alun alunoClicado;
+    private Aluno alunoClicado;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
